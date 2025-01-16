@@ -10,6 +10,17 @@
 
 ![MiSide Mita Wiki](https://miside.im/assets/mita-wiki.jpeg)
 
+## MiSide.im Fun Tool
+
+### Mita Tier List Maker
+Create Your Mita Tier List With Our [Mita Tier List Maker](https://miside.im/mita-tier-list-maker/)
+![Mita Tier List](https://miside.im/assets/miside-share.jpeg)
+
+### MiSide Achievements Tier List Maker
+Create Your MiSide Achievements Tier List With Our [MiSide Achievements Tier List Maker](https://miside.im/achievements-tier-list-maker/)
+![MiSide Achievements Tier List](https://github.com/user-attachments/assets/bc96ca06-250c-45ab-97d3-5106c41c7102)
+
+
 ## Key Features of MiSide
 
 ### 🎮 Adventure Horror Gameplay
@@ -55,5 +66,6 @@ For guides and community discussions:
 - MiSide: [miside.im](https://miside.im)
 - MiSide Guides: [Walkthrough, Achievements and Endings](https://miside.im/blogentry/)
 - MiSide Characters: [The Mitas](https://miside.im/mita-miside-wiki/)
-
 ![MiSide Characters](https://miside.im/assets/mitas-pic.jpeg)
+- Mita Tier List On Youtube: [Youtube](https://www.youtube.com/watch?v=B_nnENrrrCU)
+- Mita Discussions On Reddit: [r/MiSideReddit](https://www.reddit.com/r/MiSideReddit/comments/1hso9dp/mita_tierlist/)
